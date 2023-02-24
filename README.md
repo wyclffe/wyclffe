@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=wyclffe)](https://github.com/wyclffe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyclffe&layout=compact)](https://github.com/wyclffe)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wyclffe&theme=dark)](https://git.io/streak-stats)
